@@ -17,9 +17,9 @@
 </template>
 
 <script>
-import eInput from './components/e-input.vue'
-import eFormItem from './components/e-form-item.vue'
-import eForm from './components/e-form.vue'
+import eInput from './components/Form/e-input.vue'
+import eFormItem from './components/Form/e-form-item.vue'
+import eForm from './components/Form/e-form.vue'
 
 
 export default {
